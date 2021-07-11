@@ -1,2 +1,2 @@
 # MOALU-presentation-only
-MOALU centrale unit presentation
+MOALU central unit presentation
